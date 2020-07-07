@@ -1,6 +1,10 @@
 ### Hi there! 👋
 I'm Dr. Sarah Kaiser (she/her) and I 💖 everything about quantum technology! 
 
+![Twitch Status](https://img.shields.io/twitch/status/crazy4pi314)
+![Discord](https://img.shields.io/discord/713831924451377193?label=discord)
+![Twitter Follow](https://img.shields.io/twitter/follow/crazy4pi314?style=social)
+
 I have spent much of my career developing new technologies in the lab, from satellites to VR to quantum cryptography hardware. Communicating what is so exciting about quantum is my passion, and I love building new demos and tools to help enable the quantum open source community to grow 🌱
 
 #### What am I up to right now:
