@@ -5,6 +5,7 @@ I'm Dr. Sarah Kaiser (she/her) and I 💖 everything about quantum tech!
 [![Pronouns](https://img.shields.io/badge/pronouns-she%2Fher-blueviolet)](http://pronoun.is/she)
 [![Discord](https://img.shields.io/discord/713831924451377193?label=discord)](https://discord.gg/RmReNjt)
 [![Twitter Follow](https://img.shields.io/twitter/follow/crazy4pi314?style=social)](https://twitter.com/crazy4pi314)
+<!--[![Sarah's github stats](https://github-readme-stats.vercel.app/api?username=crazy4pi314)](https://github.com/anuraghazra/github-readme-stats)-->
 
 I have spent much of my career developing new technologies in the lab, from satellites to VR to quantum cryptography hardware. Communicating what is so exciting about quantum is my passion, and I love building new demos and tools to help enable the quantum open source community to grow 🌱
 
