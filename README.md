@@ -14,7 +14,7 @@ I have spent much of my career developing new technologies in the lab, from sate
 
 - ⛑ I maintain the [Q# Community](https://qsharp.community/), where the community around Q# works to develop new tools and quantum software development projects! Also, we are looking for new mainatiners to help out as the community grows 👯
 
-- 📝I'm writing day and night like I am running out of time. Usually to the Hamilton soundtrack, but I write books and blogs for developers to learn about quantum computing like [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) and posts on [my blog](https://www.sckaiser.com/blog/).
+- 📝I'm writing day and night like I am running out of time. Usually to the Hamilton soundtrack, but I write books and blogs for developers to learn about quantum computing like [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) and posts on [my blog](https://www.sckaiser.com/archive).
 
 - 👩‍💻 I run a meetup group in Seattle called [WIQCA](https://www.wiqca.dev/) where we host talks ~1x a month highlighting development tools, research, and skills that real life quantum developers use!
 
