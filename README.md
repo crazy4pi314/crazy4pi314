@@ -1,5 +1,5 @@
 ### Hi there! 👋
-I'm Dr. Sarah Kaiser (she/her) and I 💖 everything about quantum tech! 
+I'm Dr. Sarah Kaiser (she/her) and I 💖 everything about Python and quantum tech! 
 
 [![Twitch Status](https://img.shields.io/twitch/status/crazy4pi314)](https://www.twitch.tv/crazy4pi314/about)
 [![Pronouns](https://img.shields.io/badge/pronouns-she%2Fher-blueviolet)](http://pronoun.is/she)
