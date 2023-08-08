@@ -1,26 +1,26 @@
-### Hi there! 👋
-I'm Dr. Sarah Kaiser (she/her) and I 💖 everything about Python and quantum tech! 
+### 👋 Hi, I'm Dr. Sarah Kaiser!
+- 🐍 Pythonista,
+- ⚛️ [Quantum nerd](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp?a_aid=learn-qc-granade&a_bid=ee23f338),
+- 🎓[PSF Fellow](https://www.python.org/psf/fellows-roster/), and
+- ☁️ [Developer Advocate at Microsoft](https://developer.microsoft.com/en-us/advocates/sarah-kaiser).
 
-[![Twitch Status](https://img.shields.io/twitch/status/crazy4pi314)](https://www.twitch.tv/crazy4pi314/about)
-[![Pronouns](https://img.shields.io/badge/pronouns-she%2Fher-blueviolet)](http://pronoun.is/she)
+[![Pronouns](https://img.shields.io/badge/pronouns-she%20/%20they-blueviolet)](http://pronoun.is/she)
 [![Discord](https://img.shields.io/discord/713831924451377193?label=discord)](https://discord.gg/RmReNjt)
-[![Twitter Follow](https://img.shields.io/twitter/follow/crazy4pi314?style=social)](https://twitter.com/crazy4pi314)
-<!--[![Sarah's github stats](https://github-readme-stats.vercel.app/api?username=crazy4pi314)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Twitch Status](https://img.shields.io/twitch/status/crazy4pi314)](https://www.twitch.tv/crazy4pi314/about)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-connect-blue?logo=linkedin)
+](https://www.linkedin.com/in/sckaiser1/)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/108212696797847765?domain=https%3A%2F%2Fmathstodon.xyz)
 
-I have spent much of my career developing new technologies in the lab, from satellites to VR to quantum cryptography hardware. Communicating what is so exciting about quantum is my passion, and I love building new demos and tools to help enable the quantum open source community to grow 🌱
+<!-- [![Sarah's github stats](https://github-readme-stats.vercel.app/api?username=crazy4pi314)](https://github.com/anuraghazra/github-readme-stats) -->
 
-#### What am I up to right now:
-- 🏅I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003652?fullName=Sarah%20Kaiser) for the Q# programming language + the [Quantum Development Kit](http://docs.microsoft.com/quantum/) and love showing people how easy it is to program a quantum computer. Join me on Wednesdays and Saturdays on [Twitch](https://www.twitch.tv/crazy4pi314/) where I work on open source Q# projects on my Quantum Develop with Me stream.
-
-- ⛑ I maintain the [Q# Community](https://qsharp.community/), where the community around Q# works to develop new tools and quantum software development projects! Also, we are looking for new mainatiners to help out as the community grows 👯
-
-- 📝I'm writing day and night like I am running out of time. Usually to the Hamilton soundtrack, but I write books and blogs for developers to learn about quantum computing like [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp) and posts on [my blog](https://www.sckaiser.com/archive).
+I have spent much of my career developing new technologies for satellites, VR, and quantum devices. Communicating what is so exciting about tech is my passion, and I love building new demos and tools to help enable the open source community to grow 🌱
 
 #### When not at the keyboard you can find me:
-- ⚠ laser cutting everything (safe), 
-- 📚 writing [books about engineering for kids](https://www.amazon.com/Sarah-Kaiser/e/B07H4VDXW5/), as well as 
-- 🐕 playing with my pup, [Chewie](https://twitter.com/chewieborka).
-
+- ⚠ laser cutting everything (safe),
+- 🛥️ floating somewhere out on Puget Sound,
+- 📚 writing [books](https://www.sckaiser.com/books/), and 
+- 🐕 playing with my pup, Chewie.
+![german shepard dog sleeping on a plaid blanet on a couch](https://www.sckaiser.com/static/img/chewie-mikeandike.jpg)
 
 <!--
 **crazy4pi314/crazy4pi314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
