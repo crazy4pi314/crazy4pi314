@@ -18,7 +18,7 @@ I'm currently a [Developer Advocate at Microsoft](https://developer.microsoft.co
 - 🔭 I’m currently working on tools and tutorials to make working with your data (wherever it is) easier.
 - 🧐 Learning about <strong>reproducible science</strong>, <strong>distributed systems</strong>, and a <strong>machine learning</strong>.
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/crazy4pi314">Github</a>.
-- 📝 I write articles on <a href="https://blog.stanleylim.me">my blog</a>.
+- 📝 I write articles on <a href="https://www.sckaiser.com/blog/">my blog</a>.
 - 💬 Ping me about <strong>Python, Azure, quantum tech, and GitHub stuff</strong>.
 - 🎉 Fun Fact: My dog Chewie is adorable, and loves learning 😆
 
