@@ -6,6 +6,8 @@ I'm Sarah Kaiser, a Developer Advocate at GitHub supporting OSS developers and c
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff)]([#](https://mathstodon.xyz/@crazy4pi314))
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/crazy4pi314/about)
 [![Website](https://img.shields.io/badge/Website-magenta?logo=eleventy)](https://sckaiser.com)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@sckaiser)
+
 
 ### ⚡A Few Quick Facts:
 
