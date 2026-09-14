@@ -21,6 +21,3 @@ I'm currently a [Developer Advocate at Microsoft](https://developer.microsoft.co
 - 📝 I write articles on <a href="https://www.sckaiser.com/blog/">my blog</a>.
 - 💬 Ping me about <strong>Python, Azure, quantum tech, and GitHub stuff</strong>.
 - 🎉 Fun Fact: My dog Chewie is adorable, and loves learning 😆
-
-<!-- [![Sarah's github stats](https://github-readme-stats.vercel.app/api?username=crazy4pi314)](https://github.com/anuraghazra/github-readme-stats) -->
-<p><a href="http://hits.dwyl.com/crazy4pi314/crazy4pi314/crazy4pi314.svg"><img src="https://hits.dwyl.com/crazy4pi314/crazy4pi314/crazy4pi314.svg" alt="HitCount"></a></p>
