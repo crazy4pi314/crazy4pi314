@@ -1,23 +1,19 @@
-## 👋 Hi, I'm [Dr. Sarah Kaiser](https://sckaiser.com)!
-I'm currently a [Developer Advocate at Microsoft](https://developer.microsoft.com/en-us/advocates/sarah-kaiser) focusing on Python for data science and ML. I am working on some cool projects, making things with my laser cutter, and trying to save Eorzia in FFXIV.
+# 👋 Nice to meet you!
+I'm Sarah Kaiser, a Developer Advocate at GitHub supporting OSS developers and communities with an interest in security and data science/machine learning. After my experimental quantum computing PhD, I now collect lasers in my home lab to get my fill of photons. Random ideas come into my head that spawn projects that get half-finished as I am distracted by the
 
-[![Pronouns](https://img.shields.io/badge/pronouns-she%20/%20they-blueviolet)](http://pronoun.is/she)
-[![Discord](https://img.shields.io/discord/713831924451377193?label=discord)](https://discord.gg/RmReNjt)
-[![Twitch Status](https://img.shields.io/twitch/status/crazy4pi314)](https://www.twitch.tv/crazy4pi314/about)
-[![Static Badge](https://img.shields.io/badge/-connect-blue?logo=linkedin)
-](https://www.linkedin.com/in/sckaiser1/)
-![Mastodon Follow](https://img.shields.io/mastodon/follow/108212696797847765?domain=https%3A%2F%2Fmathstodon.xyz)
-[![Devto Badge](https://img.shields.io/badge/-@crazy4pi314-0A0A0A?&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;)](https://dev.to/crazy4pi314") 
+[![Pronouns](https://img.shields.io/badge/pronouns-they%20/%20them-green)](http://pronoun.is/they)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/sckaiser1/)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff)]([#](https://mathstodon.xyz/@crazy4pi314))
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://www.twitch.tv/crazy4pi314/about)
+[![Website](https://img.shields.io/badge/Website-magenta?logo=eleventy)](https://sckaiser.com)
 
-🚰 _Don't forget to stay hydrated!_ 🚰
+### ⚡A Few Quick Facts:
 
-<img align="right" src="https://www.sckaiser.com/static/img/chewie-mikeandike.jpg" alt="german shepard dog sleeping on a plaid blanket on a couch"  width="40%" />
+<img align="right" src="https://www.sckaiser.com/static/img/sarah-and-chewie.jpg" alt="Sarah with purple hair and a German Shepard dog sitting on their shoulders"  width="25%"/>
 
-## ⚡A Few Quick Facts
-
-- 🔭 I’m currently working on tools and tutorials to make working with your data (wherever it is) easier.
-- 🧐 Learning about <strong>reproducible science</strong>, <strong>distributed systems</strong>, and a <strong>machine learning</strong>.
-- 👨‍💻 Most of my projects are available on <a href="https://github.com/crazy4pi314">Github</a>.
-- 📝 I write articles on <a href="https://www.sckaiser.com/blog/">my blog</a>.
-- 💬 Ping me about <strong>Python, Azure, quantum tech, and GitHub stuff</strong>.
-- 🎉 Fun Fact: My dog Chewie is adorable, and loves learning 😆
+- 📚 I <a href="https://www.sckaiser.com/books/">write books</a> for folks of all ages.
+- 🐍 I'm a Python Software Foundation Fellow
+- 🔭 Currently working on tools and tutorials to make working with your data and code on GitHub easier
+- 🧐 Learning about <strong>reproducible science</strong>, <strong>OSS security</strong>, and <strong>machine learning</strong>.
+- 💬 Reach out about <strong>Python, GitHub, OSS security, public speaking</strong>.
+- 🐕 My German Shepard Chewie is my micromanager, and loves letting me know when to take stretch breaks 😆
